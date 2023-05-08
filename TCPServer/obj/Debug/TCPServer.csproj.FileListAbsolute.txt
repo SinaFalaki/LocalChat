@@ -1,0 +1,55 @@
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\bin\Debug\TCPServer.exe.config
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\bin\Debug\TCPServer.exe
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\bin\Debug\TCPServer.pdb
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\bin\Debug\SuperSimpleTcp.dll
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\obj\Debug\TCPServer.exe
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\obj\Debug\TCPServer.pdb
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPServer\obj\Debug\TCPServer.FrmServer.resources
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.FrmServer.resources
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPServer\bin\Debug\ring.wav
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\bin\Debug\ring.wav
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\bin\Debug\TCPServer.exe.config
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\bin\Debug\TCPServer.exe
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\bin\Debug\TCPServer.pdb
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\bin\Debug\SuperSimpleTcp.dll
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.SuggestedBindingRedirects.cache
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.FrmServer.resources
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.exe
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Sina\Desktop\chat update\TCPServer\bin\Debug\ring.wav
+C:\Users\Sina\Desktop\chat update\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Sina\Desktop\chat update\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Sina\Desktop\chat update\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Sina\Desktop\chat update\TCPServer\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Sina\Desktop\chat update\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+C:\Users\Sina\Desktop\chat update\TCPServer\obj\Debug\TCPServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sina\Desktop\chat update\TCPServer\obj\Debug\TCPServer.FrmServer.resources
+C:\Users\Sina\Desktop\chat update\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\Sina\Desktop\chat update\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+C:\Users\Sina\Desktop\chat update\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Sina\Desktop\chat update\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+C:\Users\Sina\Desktop\chat update\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Sina\Desktop\chat update\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Sina\Desktop\chat update\TCPServer\bin\Debug\ServerStorage.txt

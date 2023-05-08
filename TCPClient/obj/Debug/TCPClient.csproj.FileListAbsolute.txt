@@ -1,0 +1,55 @@
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\bin\Debug\SuperSimpleTcp.dll
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CopyComplete
+D:\Projects\c#\TCPClinetServerProject\TCPClient\TCPClient\obj\Debug\TCPClient.FrmClient.resources
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.FrmClient.resources
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CopyComplete
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Sina\Desktop\chat\ChatUser\2-Source\TCPClient\TCPClient\bin\Debug\ring.wav
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\bin\Debug\ring.wav
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\bin\Debug\SuperSimpleTcp.dll
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.SuggestedBindingRedirects.cache
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.FrmClient.resources
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CopyComplete
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\_MY C# PROJECT\chat\ChatUser\2-Source\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Sina\Desktop\chat update\TCPClient\bin\Debug\ring.wav
+C:\Users\Sina\Desktop\chat update\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Sina\Desktop\chat update\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Sina\Desktop\chat update\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Sina\Desktop\chat update\TCPClient\bin\Debug\SuperSimpleTcp.dll
+C:\Users\Sina\Desktop\chat update\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Sina\Desktop\chat update\TCPClient\obj\Debug\TCPClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sina\Desktop\chat update\TCPClient\obj\Debug\TCPClient.FrmClient.resources
+C:\Users\Sina\Desktop\chat update\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Sina\Desktop\chat update\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Sina\Desktop\chat update\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Sina\Desktop\chat update\TCPClient\obj\Debug\TCPClient.csproj.CopyComplete
+C:\Users\Sina\Desktop\chat update\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Sina\Desktop\chat update\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Sina\Desktop\chat update\TCPClient\bin\Debug\ClientStorage.txt
